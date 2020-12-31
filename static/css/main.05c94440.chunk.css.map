@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,GAGE,sBACF,CACA,SAJE,YAAa,CACb,kBAOF,CAJA,MAGE,6BACF","file":"main.05c94440.chunk.css","sourcesContent":["h1{\r\n  display: flex;\r\n  flex-direction: row;\r\n  justify-content: center;\r\n}\r\n.main{\r\n  display: flex;\r\n  flex-direction: row;\r\n  justify-content: space-between;\r\n}"]}
